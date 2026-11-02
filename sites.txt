@@ -1,0 +1,4 @@
+# Um site por linha. Linhas com # sao ignoradas.
+https://www.google.com
+https://github.com
+https://www.python.org
