@@ -21,4 +21,4 @@ jobs:
         run: python -m unittest -v
 
       - name: Construir imagem Docker
-        run: docker build -t monitor-de-sites .
+        run: docker build . -t monitor-de-sites
